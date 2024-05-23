@@ -32,7 +32,6 @@ SyriaTel, a telecommunications company, is experiencing customer churn, which im
 To install and set up the project, follow these steps:
 
 ```bash
-
 # Clone the repository
 git clone https://github.com/shuruebale/syriatel-customer-churn.git
 cd syriatel-customer-churn
